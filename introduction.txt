@@ -1,0 +1,9 @@
+Hi, my name is Tannu.
+
+I am studying BSc in Computer Science.
+
+I’m currently learning full-stack development.
+
+I am gaining skills in front-end tools like HTML, CSS, and JavaScript.
+
+I’m excited to grow my skills and work on real-world projects as I continue my learning journey.
